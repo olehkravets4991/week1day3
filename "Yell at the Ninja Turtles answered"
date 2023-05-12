@@ -1,0 +1,7 @@
+//////////////////////////
+let turtles = ["Donatello","Leonardo","Raphael","Michelangelo"]
+for(let turtle of turtles){
+    let capilizedTurtle = turtle.toUpperCase()
+    console.log(capitalizedTurtle)
+}
+/////////////////////////////////
