@@ -1,0 +1,8 @@
+////////////////////////////////////////
+const whereIsWaldo = [["Timmy", "Frank"], "Eggbert",
+                    ["Lucinda", "Jacc", "Neff", "Snoop"],
+                    ["Petunia", ["Baked Goods", "Waldo"]]];
+                    whereIsWaldo.splice("Eggbert")
+                    whereIsWaldo.splice(1,2, "No One")
+                    console.log(3,1,1)
+//////////////////////////////
